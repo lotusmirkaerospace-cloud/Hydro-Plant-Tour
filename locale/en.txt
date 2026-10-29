@@ -1,0 +1,21 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_889F6BD6_879E_D57E_41AC_2AF657A74B29.label = KML Overlay
+panorama_8B5DBFC2_8762_2D57_41DC_2E0FA86FFEF8.label = Original Pnao
+
+## Skin
+
+### Button
+Button_96A45DE6_87A6_2D5F_41E0_D4A85F302467.label = KML Overlay
+Button_881659D9_87A2_5575_41C4_6AA14722FD17.label = Original 
+Button_96ED4CCF_87A6_536E_41A2_BA7C43FB9E0B.label = Revit Model
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Hydro Project 
